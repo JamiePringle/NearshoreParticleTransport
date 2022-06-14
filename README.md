@@ -8,4 +8,6 @@ This code estimates the magnitude of the horizontal exchange diffusivity as a fu
 
 
 ## Nearshore_crossShelfTransportAnimation.py 
-This code animates an ensemble of particles in the same model as Nearshore_Mixing_and_Uex_vrs_ws.py. If you want to adapt the model to your particular environment, I strongly suggest playing with the Nearshore_crossShelfTransportAnimation.py code to get an idea of what the particles are doing, and then transfer the code to the longer-running and more opaque Nearshore_Mixing_and_Uex_vrs_ws.py code.
+This code animates an ensemble of particles in the same model as Nearshore_Mixing_and_Uex_vrs_ws.py. If you want to adapt the model to your particular environment, I strongly suggest playing with the Nearshore_crossShelfTransportAnimation.py code to get an idea of what the particles are doing, and then transfer the code to the longer-running and more opaque Nearshore_Mixing_and_Uex_vrs_ws.py code. An example of its output is below:
+
+![Animated Particles](images/particleAnimate.gif)
